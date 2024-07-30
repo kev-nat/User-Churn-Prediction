@@ -14,17 +14,17 @@
 
 ![image](https://github.com/user-attachments/assets/3f261003-b498-4ecb-9a30-9a592077e75a)
 
-There are nearly twice as many iPhone users as Android users represented in this data.
+<p align="justify"> There are nearly twice as many iPhone users as Android users represented in this data. </p>
 
-A histogram that, for each day, has a bar representing the counts of driving_days and activity_days.
+<p align="justify"> A histogram that, for each day, has a bar representing the counts of driving_days and activity_days. </p>
 
 ![image](https://github.com/user-attachments/assets/4a13d87b-5f4a-4220-8973-a0c527f8003e)
 
-A histogram that has four bars—one for each device-label combination—to show how many iPhone users were retained/churned and how many Android users were retained/churned.
+<p align="justify"> A histogram that has four bars—one for each device-label combination—to show how many iPhone users were retained/churned and how many Android users were retained/churned. </p>
 
 ![image](https://github.com/user-attachments/assets/f47e314c-602e-485e-b2d9-5abe6fe8d871)
 
-Another histogram represents the churn rate for each number of driving days.
+<p align="justify"> Another histogram represents the churn rate for each number of driving days. </p>
 
 ![image](https://github.com/user-attachments/assets/f7418a79-d81f-4117-9b49-f3c68f657623)
 
